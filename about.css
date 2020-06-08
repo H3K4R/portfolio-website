@@ -1,0 +1,14 @@
+:root{
+    --primary:#3DCFD3;
+    --dark:		#ff00bf;
+    --pure:#FFFFFF;
+    --ternary:#898989;
+    --light:#F2F2F2;
+    --secondary:#070606; 
+}
+body{
+    text-align: center;
+}
+header{
+    background: var(--dark);
+}
